@@ -1,0 +1,33 @@
+----> 23:28:36 Fri May 14 olli@dell15 ~/bin/cpp/geekbrains/homework2_oleg_artemev/build
+$ ./homework2 
+boolean value is 1 AKA true
+short integer value is 2
+short integer size is 2integer value is 1
+float value is 2.000000
+double value is 3.000000
+char value is 'A'
+unsigned int value is 2
+long int value is 4
+long long int value is 9
+unsigned long long int value is 3
+array as string: string
+another array as string: as
+arr3[0][0]: 2
+arr3[0][1]: 3
+arr3[1][0]: 4
+arr3[1][1]: 5
+auto variable value is 3
+auto variable value is 3.000000
+Bit fields values: 0 and 0
+  . A . B . C .  
+...............
+1 . X .   .   .
+...............
+2 . 0 . 0 .   .
+...............
+3 .   .   . 0 .
+..............
+union contains int
+----> 23:28:48 Fri May 14 olli@dell15 ~/bin/cpp/geekbrains/homework2_oleg_artemev/build
+$ 
+
